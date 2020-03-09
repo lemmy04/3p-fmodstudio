@@ -1,0 +1,8 @@
+stage
+*.dmg
+*.cpp.orig
+*.cpp.bak
+*.h.bak
+*.h.orig
+*.diff
+*~

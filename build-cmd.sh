@@ -1,9 +1,9 @@
 #!/usr/bin/env bash
 
-FMOD_DOWNLOAD_BASE="http://192.168.1.115/dev/pkg/"
+FMOD_DOWNLOAD_BASE="file://./"
 FMOD_ROOT_NAME="fmodstudioapi"
-FMOD_VERSION="20007"
-FMOD_VERSION_PRETTY="2.00.07"
+FMOD_VERSION="20008"
+FMOD_VERSION_PRETTY="2.00.08"
 
 cd "$(dirname "$0")"
 
