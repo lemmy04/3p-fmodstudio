@@ -6,3 +6,5 @@ stage
 *.h.orig
 *.diff
 *~
+*.tar.gz
+*.tar.bz2
