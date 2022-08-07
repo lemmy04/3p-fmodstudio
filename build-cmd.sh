@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-FMOD_DOWNLOAD_BASE="http://192.168.1.115/dev/pkg/"
+FMOD_DOWNLOAD_BASE="http://erebus/dev/pkg/"
 FMOD_ROOT_NAME="fmodstudioapi"
 FMOD_VERSION="20207"
 FMOD_VERSION_PRETTY="2.02.07"
