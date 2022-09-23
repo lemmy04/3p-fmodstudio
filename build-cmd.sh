@@ -2,8 +2,8 @@
 
 FMOD_DOWNLOAD_BASE="http://erebus/dev/pkg/"
 FMOD_ROOT_NAME="fmodstudioapi"
-FMOD_VERSION="20207"
-FMOD_VERSION_PRETTY="2.02.07"
+FMOD_VERSION="20208"
+FMOD_VERSION_PRETTY="2.02.08"
 
 cd "$(dirname "$0")"
 
